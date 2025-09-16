@@ -139,9 +139,11 @@ plt.show()
 ```
 
 # OUTPUT:
-<img width="401" height="420" alt="Screenshot 2025-09-10 155309" src="https://github.com/user-attachments/assets/f391d5fa-b925-4267-b523-b2c059f94d5e" />
-<img width="842" height="525" alt="Screenshot 2025-09-10 155326" src="https://github.com/user-attachments/assets/50bf231b-0f36-452e-8e18-a0d77a400e5f" />
-<img width="369" height="392" alt="Screenshot 2025-09-10 155425" src="https://github.com/user-attachments/assets/f4a94f86-4d6c-41df-8642-803d99b2b53c" />
+<img width="633" height="529" alt="image" src="https://github.com/user-attachments/assets/001af112-59eb-463f-bfd6-5fcf9677a400" />
+
+<img width="906" height="539" alt="image" src="https://github.com/user-attachments/assets/a69ad209-dd8f-4e03-935b-6aae44d464f1" />
+
+<img width="515" height="379" alt="image" src="https://github.com/user-attachments/assets/12562dfd-d9a4-463e-8391-b62f9803511e" />
 
 
 # RESULT:
